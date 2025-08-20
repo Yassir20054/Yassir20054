@@ -3,12 +3,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-<details>
-<p><strong> <summary> 🎧 Busy coding & Vibing to : </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <br>
-
-</details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YassirChakir&style=flat&color=orange&label=PROFILE+VIEWS)
 
